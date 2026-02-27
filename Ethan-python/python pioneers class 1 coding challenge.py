@@ -1,0 +1,7 @@
+print("Welcome to the python class!")
+person_name = input("What is your name?")
+person_favorite_color = input("What is your favorite color?")
+person_favorite_animal = input("What is your favorite animal?")
+person_gender = input("Do you prefer to be called a his or a her?")
+print("Let's welcome "+ person_name +" to the python class! " + person_gender +" favorite color is " + person_favorite_color+" and " + person_gender + " favorite animal is " + person_favorite_animal)
+print("""/\_?|""")
